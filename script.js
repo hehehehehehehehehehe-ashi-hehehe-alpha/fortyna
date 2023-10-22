@@ -17,5 +17,4 @@ async function downloadTikTokVideo(url) {
 button.addEventListener('click', () => {
   const url = input.value;
   downloadTikTokVideo(url);
-});​
-￼Enter
+});
